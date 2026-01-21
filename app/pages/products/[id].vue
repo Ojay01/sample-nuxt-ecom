@@ -11,7 +11,14 @@ definePageMeta({
 
  const api = 'https://fakestoreapi.com/products/' + id
 
-const { data: product } =  await useFetch(api)
+const { data: product, error } =  await useFetch(api)
+
+if (!product.value || error.value) {
+  throw createError({
+    statusCode: 404,
+    statusMessage: 'Product not found'
+  })
+}
 </script>
 
 <style scoped>

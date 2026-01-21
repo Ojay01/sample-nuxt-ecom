@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "total_price": 39.98,
+        "user_id": 10,
+        "order_date": "2026-01-21",
+        "type": "paid",
+        "status": "shipped",
+        "payment_status": "full",
+        "amount_paid": 39.98,
+        "amount_due": 0.00
+    },
+    {
+        "id": 2,
+        "total_price": 15.99,
+        "user_id": 9,
+        "type": "pay_on_delivery",
+        "order_date": "2026-01-21",
+        "status": "processing",
+        "payment_status": "partial",
+        "amount_paid": 0.00,
+        "amount_due": 15.99
+    },
+    {
+        "id": 3,
+        "total_price": 79.96,
+        "user_id": 6,
+        "order_date": "2026-01-21",
+        "type": "pay_on_delivery",
+        "status": "delivered",
+        "payment_status": "partial",
+        "amount_paid": 0.00,
+        "amount_due": 79.96
+    },
+    {
+        "id": 4,
+        "total_price": 39.98,
+        "user_id": 5,
+        "order_date": "2026-01-21",
+        "type": "paid",
+        "status": "shipped",
+        "payment_status": "full",
+        "amount_paid": 39.98,
+        "amount_due": 0.00
+    },
+    {
+        "id": 5,
+        "total_price": 15.99,
+        "user_id": 10,
+        "type": "pay_on_delivery",
+        "order_date": "2026-01-21",
+        "status": "processing",
+        "payment_status": "partial",
+        "amount_paid": 0.00,
+        "amount_due": 15.99
+    },
+    {
+        "id": 6,
+        "total_price": 79.96,
+        "user_id": 10,
+        "order_date": "2026-01-21",
+        "type": "pay_on_delivery",
+        "status": "delivered",
+        "payment_status": "partial",
+        "amount_paid": 0.00,
+        "amount_due": 79.96
+    },
+    {
+        "id": 7,
+        "total_price": 39.98,
+        "user_id": 10,
+        "order_date": "2026-01-21",
+        "type": "paid",
+        "status": "shipped",
+        "payment_status": "full",
+        "amount_paid": 39.98,
+        "amount_due": 0.00
+    },
+    {
+        "id": 8,
+        "total_price": 15.99,
+        "user_id": 1,
+        "type": "pay_on_delivery",
+        "order_date": "2026-01-21",
+        "status": "processing",
+        "payment_status": "partial",
+        "amount_paid": 0.00,
+        "amount_due": 15.99
+    },
+    {
+        "id": 9,
+        "total_price": 79.96,
+        "user_id": 10,
+        "order_date": "2026-01-21",
+        "type": "pay_on_delivery",
+        "status": "delivered",
+        "payment_status": "partial",
+        "amount_paid": 0.00,
+        "amount_due": 79.96
+    },
+    {
+        "id": 10,
+        "total_price": 69.96,
+        "user_id": 10,
+        "order_date": "2026-01-21",
+        "type": "pay_on_delivery",
+        "status": "delivered",
+        "payment_status": "partial",
+        "amount_paid": 0.00,
+        "amount_due": 69.96
+    }
+]

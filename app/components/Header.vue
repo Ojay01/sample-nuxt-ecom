@@ -15,6 +15,8 @@
             <li class="hover:text-orange-500"><NuxtLink to="/">Home</NuxtLink></li>
             <li class="hover:text-orange-500"><NuxtLink to="/about-us">About Us</NuxtLink></li>
             <li class="hover:text-orange-500"><NuxtLink to="/products">Products</NuxtLink></li>
+            <li class="hover:text-orange-500"><NuxtLink to="/orders">Orders</NuxtLink></li>
+            <li class="hover:text-orange-500"><NuxtLink to="/table">Table</NuxtLink></li>
         </ul>
         </div>
       
