@@ -1,6 +1,6 @@
 <template>
   <div class="border-t pt-4 space-y-3">
-    <div class="grid md:grid-cols-2 gap-x-6 gap-y-2 text-xs sm:text-sm">
+    <div class="grid  gap-x-6 gap-y-2 text-xs sm:text-sm">
       <div class="flex items-center justify-between gap-3">
         <span class="text-slate-500">Order cost</span>
         <span class="font-semibold text-slate-900 text-sm whitespace-nowrap">

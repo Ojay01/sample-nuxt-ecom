@@ -20,7 +20,6 @@
       </div>
 
       <div class="sm:text-right">
-        <p class="text-xs sm:text-sm text-slate-500">Client</p>
         <p class="text-lg sm:text-xl font-semibold truncate sm:max-w-48 text-slate-900">
           {{ order.clientName }}
         </p>

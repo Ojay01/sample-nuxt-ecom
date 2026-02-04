@@ -201,7 +201,6 @@
 </template>
 
 <script setup>
-import { computed, ref } from 'vue'
 
 const orders = [
   { order_id: 1, products: [ { product_id: 1, quantity: 2, price: 50.0 }, { product_id: 2, quantity: 3, price: 50.0 } ] },

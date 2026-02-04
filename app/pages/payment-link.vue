@@ -30,7 +30,6 @@
 </template>
 
 <script setup>
-definePageMeta({ layout: 'products' })
 
 
 const order = ref({

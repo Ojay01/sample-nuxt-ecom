@@ -4,9 +4,7 @@
 </template>
 
 <script setup>
-definePageMeta({
-    layout: 'product'
- })
+
  const { id } = useRoute().params
 
  const api = 'https://fakestoreapi.com/products/' + id
